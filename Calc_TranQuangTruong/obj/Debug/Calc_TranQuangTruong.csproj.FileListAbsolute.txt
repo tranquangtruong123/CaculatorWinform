@@ -1,0 +1,10 @@
+D:\C#\Calc_TranQuangTruong\bin\Debug\Calc_TranQuangTruong.exe.config
+D:\C#\Calc_TranQuangTruong\bin\Debug\Calc_TranQuangTruong.exe
+D:\C#\Calc_TranQuangTruong\bin\Debug\Calc_TranQuangTruong.pdb
+D:\C#\Calc_TranQuangTruong\obj\Debug\Calc_TranQuangTruong.csproj.AssemblyReference.cache
+D:\C#\Calc_TranQuangTruong\obj\Debug\Calc_TranQuangTruong.Properties.Resources.resources
+D:\C#\Calc_TranQuangTruong\obj\Debug\Calc_TranQuangTruong.csproj.GenerateResource.cache
+D:\C#\Calc_TranQuangTruong\obj\Debug\Calc_TranQuangTruong.csproj.CoreCompileInputs.cache
+D:\C#\Calc_TranQuangTruong\obj\Debug\Calc_TranQuangTruong.exe
+D:\C#\Calc_TranQuangTruong\obj\Debug\Calc_TranQuangTruong.pdb
+D:\C#\Calc_TranQuangTruong\obj\Debug\Calc_TranQuangTruong.frmTruong.resources
